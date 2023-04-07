@@ -1,7 +1,7 @@
 # Olá eu sou o Henrique Rodriguez 🤘
 
 ## Sobre mim
-### Sou um desenvolvedor fullstack com um interesse especial no desenvolvimento de front-end. Atualmente, estou estudando para me aprimorar e aprender mais sobre o mundo do desenvolvimento de software. Além do desenvolvimento de software, gosto de jogar com meus amigos e as vezes dou uma de mecânico. Sou apaixonado por aprender coisas novas e aplicá-las em meus projetos de programação. Sinta-se à vontade para me contatar se quiser falar sobre projetos de desenvolvimento ou compartilhar ideias.
+Sou um desenvolvedor fullstack com um interesse especial no desenvolvimento de front-end. Atualmente, estou estudando para me aprimorar e aprender mais sobre o mundo do desenvolvimento de software. Além do desenvolvimento de software, gosto de jogar com meus amigos e as vezes dou uma de mecânico. Sou apaixonado por aprender coisas novas e aplicá-las em meus projetos de programação. Sinta-se à vontade para me contatar se quiser falar sobre projetos de desenvolvimento ou compartilhar ideias.
 
 
 
